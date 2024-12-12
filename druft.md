@@ -1,3 +1,7 @@
+<!-- Improved compatibility of back to top link: See: 
+https://github.com/MJ-AHMAD/TRUSTED-ALLY/edit/main/druft.md -->
+<a id="readme-top"></a>
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
