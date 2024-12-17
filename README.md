@@ -43,7 +43,6 @@
 by, **<a href="">MJ-AHMAD</a>**
 
 ---
-"" – **MJ-AHMAD**
 
 ## About Us
 
