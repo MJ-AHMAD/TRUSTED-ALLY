@@ -1,12 +1,9 @@
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
-    <img src="img/logo.png" alt="Logo" width="80" height="80">
-  </a>
-  <h3 align="center">TRUSTED ALLY</h3>
+    <img src="img/logo.png" alt="Logo" width="120" height="120">
+  <h1 align="center"><b>TRUSTED ALLY</b></h1>
   <p align="center">
     Together Towards a Brighter Future
-    <br />
   </p>
 </div>
 
@@ -41,12 +38,12 @@
 </details>
 
 
-# TRUSTED-ALLY
+## With a Vision for Tomorrow's Leaders
 
-**Together Towards a Brighter Future**
+by, **<a href="">MJ-AHMAD</a>**
 
 ---
-"**With a Vision for Tomorrow's Leaders**" –by **MJ-AHMAD**
+"" – **MJ-AHMAD**
 
 ## About Us
 
