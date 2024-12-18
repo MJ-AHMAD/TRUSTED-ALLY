@@ -1,17 +1,15 @@
 <!-- PROJECT LOGO -->
+<p align="center">
+  <img alt="Gasket" src="/img/soft500.png" class="gasket-cover" width="496" />
+</p>
+<p align="center">
+Together Towards a Brighter Future
+</p>
 <div align="center">
-    <img src="img/logo.png" alt="Logo" width="120" height="120">
-  <h1 align="center"><b>TRUSTED ALLY</b></h1>
-  <p align="center">
-    Together Towards a Brighter Future
-  </p>
+      <h3 align="center"><b>With a Vision for Tomorrow's Leaders</b></h3>
 </div>
 
-
-## With a Vision for Tomorrow's Leaders
-
-by, **<a href="">MJ-AHMAD</a>**
-
+----
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>T-Ally</summary>
@@ -150,7 +148,8 @@ At TRUSTED-ALLY, we are committed to building a future where innovation, integri
     - Empower future generations with the skills and knowledge they need to thrive.
 
 ### Vision for the Future
-**"Together Towards a Brighter Future"** – TRUSTED-ALLY is committed to creating a better and more educated society. Through this comprehensive approach, TRUSTED-ALLY aims to achieve its mission and contribute significantly to the development of future leaders and an enlightened community.
+**"Together Towards a Brighter Future"** –  TRUSTED-ALLY is committed to creating a better and more educated society. Through this comprehensive approach, TRUSTED-ALLY aims to achieve its mission and contribute significantly to the development of future leaders and an enlightened community.
+
 ---
 ### Our Work
 
