@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img alt="Gasket" src="/img/soft500.png" class="gasket-cover" width="496" />
+  <img alt="Gasket" src="https:/mj-ahmad.github.io/TRUSTED-ALLY/img/soft500.png" class="gasket-cover" width="496" />
 </p>
 <p align="center">
 Together Towards a Brighter Future
