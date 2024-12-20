@@ -36,6 +36,7 @@ Together Towards a Brighter Future
     <li><a href="#investor-page-for-trusted-ally">Investor</a></li>
     <li><a href="#contact-us">Contact</a></li>
     <li><a href="#our-opportunity-and-responsibility">Our Opportunity and Responsibility</a></li>
+    <li><a href="https://mj-ahmad.github.io/MJ-AHMAD-Insights/Docs">MJ-AHMAD Insights Docs</a></li>
   </ol>
 </details>
 
