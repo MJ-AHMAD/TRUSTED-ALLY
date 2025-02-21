@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Travel Agency</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="bg-primary text-white text-center py-5">
+        <h1>TRUSTED ALLY</h1>
+    </header>
+    <main class="container my-5">
+        <h2 class="text-center mb-4">Flight Search</h2>
+        <form id="search-form" class="mb-5">
+            <div class="form-row">
+                <div class="form-group col-md-4">
+                    <input type="text" id="origin" class="form-control" placeholder="Origin" required>
+                </div>
+                <div class="form-group col-md-4">
+                    <input type="text" id="destination" class="form-control" placeholder="Destination" required>
+                </div>
+                <div class="form-group col-md-4">
+                    <input type="date" id="date" class="form-control" title="Select a date" required>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Search</button>
+        </form>
+        <div id="results" class="mt-5"></div>
+    </main>
+    <footer class="bg-light text-center py-3">
+        <p>&copy; 2025 <a href="https://portfolio-ally-sea.vercel.app">MJ AHMAD.</a> All rights reserved.</p>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
