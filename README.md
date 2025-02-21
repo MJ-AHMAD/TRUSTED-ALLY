@@ -622,10 +622,10 @@ Bangladesh - 4701
 [t-ally@outlook.com](mailto:t-ally@outlook.com)
 
 **Phone**:  
-+880 132 2371643
++880 1788856628
 
 **Website**:  
-[https://mj-ahmad.github.io/TrustedAlly](https://mj-ahmad.github.io/TrustedAlly)
+[MJ AHMAD](https://portfolio-ally-sea.vercel.app)
 
 Join us in our journey **Together Towards a Brighter Future**. Your investment can make a difference and help us create a more educated, empowered, and sustainable world.
 
