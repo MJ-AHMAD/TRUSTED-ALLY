@@ -20,7 +20,7 @@ Enhancing society through non-profit initiatives, offering project management fo
 A creative and effective travel agency that provides travel management, itinerary planning, and customer support.
 
 ### TechAlly Ventures
-A comprehensive platform for online marketing and software development, offering campaign management, creative design tools, and analytics and reporting.
+A comprehensive platform for online marketing and software development, offering campaign management, creative design tools, and analytics and reporting.[OTA](https://mj-ahmad.github.io/TRUSTED-ALLY/ota/)
 
 ### AlQuranJourney
 Focused on the research, printing, and distribution of the Holy Quran, aiming to provide spiritual peace and enlightenment through the dissemination of the Quran.
