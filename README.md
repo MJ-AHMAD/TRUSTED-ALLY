@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-    <img src="https://mj-ahmad.github.io/TRUSTED-ALLY/img/logo.png" alt="Logo" width="120" height="120">
-  <h1 align="center"><b>TRUSTED ALLY</b></h1>
+    <img src="https://mj-ahmad.github.io/mja2025/img/logo.png" alt="Logo" width="120" height="120">
+  <h1 align="center"><b><a href="https://v0-marketplace-8d6j4ma1v-ally-sea.vercel.app/">TRUSTED ALLY</a></b></h1>
   <p align="center">
     Together Towards a Brighter Future
   </p>
