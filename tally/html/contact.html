@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - TRUSTED-ALLY</title>
+    <link href="https://mj-ahmad.github.io/mja2025/admin/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://mj-ahmad.github.io/mja2025/admin/css/style.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container-xxl bg-white p-0">
+        <!-- Navbar Start -->
+        <!-- ...existing code... -->
+        <!-- Navbar End -->
+
+        <!-- Contact Start -->
+        <div class="container-xxl py-5">
+            <div class="container py-5 px-lg-5">
+                <div class="wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="text-center mb-5">Contact Us</h1>
+                </div>
+                <div class="row g-5">
+                    <div class="col-lg-6">
+                        <h2 class="mb-4">Get In Touch</h2>
+                        <p>If you have any questions or need further information, please feel free to contact us.</p>
+                        <form id="contactForm" onsubmit="handleSubmit(event)">
+                            <div class="row g-3">
+                                <div class="col-md-6">
+                                    <input type="text" class="form-control" name="name" placeholder="Your Name" required>
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="email" class="form-control" name="email" placeholder="Your Email" required>
+                                </div>
+                                <div class="col-12">
+                                    <input type="text" class="form-control" name="subject" placeholder="Subject" required>
+                                </div>
+                                <div class="col-12">
+                                    <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                                </div>
+                                <div class="col-12">
+                                    <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>
+                                </div>
+                            </div>
+                        </form>
+                        <div id="successMessage" class="alert alert-success mt-3" style="display: none;">
+                            Your message has been sent successfully!
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <h2 class="mb-4">Contact Information</h2>
+                        <p><i class="fa fa-map-marker-alt me-3"></i>Dhaka-1211, BD</p>
+                        <p><i class="fa fa-phone-alt me-3"></i>+880 1892051303</p>
+                        <p><i class="fa fa-envelope me-3"></i>t-ally@outlook.com</p>
+                        <div class="d-flex pt-2">
+                            <a class="btn btn-outline-primary btn-social" href=""><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-outline-primary btn-social" href="https://www.facebook.com/mj.ahmad.768732"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-outline-primary btn-social" href="https://github.com/MJ-AHMAD"><i class="fab fa-github"></i></a>
+                            <a class="btn btn-outline-primary btn-social" href="https://www.linkedin.com/in/jafor-ahmad"><i class="fab fa-linkedin-in"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Contact End -->
+
+        <!-- Footer Start -->
+        <!-- ...existing code... -->
+        <!-- Footer End -->
+    </div>
+
+    <!-- JavaScript Libraries -->
+    <!-- ...existing code... -->
+
+    <!-- Template Javascript -->
+    <!-- ...existing code... -->
+
+    <script>
+        function handleSubmit(event) {
+            event.preventDefault();
+            const form = event.target;
+            const formData = new FormData(form);
+            const data = Object.fromEntries(formData.entries());
+
+            // Store data in localStorage
+            let submissions = JSON.parse(localStorage.getItem('contactSubmissions')) || [];
+            submissions.push(data);
+            localStorage.setItem('contactSubmissions', JSON.stringify(submissions));
+
+            // Show success message
+            document.getElementById('successMessage').style.display = 'block';
+            form.reset();
+        }
+    </script>
+</body>
+</html>
