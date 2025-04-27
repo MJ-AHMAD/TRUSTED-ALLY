@@ -1,0 +1,43 @@
+{
+    "ffmpeg_path": "ffmpeg",
+    "ffprobe_path": "ffprobe",
+    "output_dir": "downloads",
+    "output_template": "%(title)s [%(id)s].%(ext)s",
+    "download_profiles": [
+        {
+            "name": "best_quality",
+            "description": "Download best quality video and audio",
+            "command": "--format bestvideo+bestaudio/best --merge-output-format mp4"
+        },
+        {
+            "name": "audio_only",
+            "description": "Extract audio only in mp3 format",
+            "command": "-x --audio-format mp3 --audio-quality 0"
+        },
+        {
+            "name": "preserve_all",
+            "description": "Preserve original audio, resolution, and all attributes",
+            "command": "--format bestvideo+bestaudio/best --merge-output-format mkv --no-mtime"
+        },
+        {
+            "name": "4k",
+            "description": "Download 4K video if available",
+            "command": "--format bestvideo[height<=2160]+bestaudio/best[height<=2160] --merge-output-format mp4"
+        },
+        {
+            "name": "1080p",
+            "description": "Download 1080p video",
+            "command": "--format bestvideo[height<=1080]+bestaudio/best[height<=1080] --merge-output-format mp4"
+        },
+        {
+            "name": "no_throttle",
+            "description": "Download with no rate limiting",
+            "command": "--format bestvideo+bestaudio/best --merge-output-format mp4 --no-rate-limit"
+        },
+        {
+            "name": "subtitles",
+            "description": "Download video with all available subtitles",
+            "command": "--format bestvideo+bestaudio/best --merge-output-format mp4 --write-subs --sub-langs all"
+        }
+    ]
+}
