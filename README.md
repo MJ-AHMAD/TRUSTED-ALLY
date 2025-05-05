@@ -26,3 +26,57 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/MJ-AHMAD/TRUSTED-ALLY-BD.git
+   ```
+---
+
+### **🤝 Contributing**
+We welcome contributions from everyone! To contribute:
+
+1. **Fork the Repository**: Click on the "Fork" button at the top right of this page.
+2. **Create a Feature Branch**: 
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. **Commit Your Changes**: Make sure your commit messages are clear and descriptive.
+   ```bash
+   git commit -m "Add your message here"
+   ```
+4. **Push to Your Branch**:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+5. **Submit a Pull Request**: Go to the "Pull Requests" tab of this repository, and create a new pull request.
+
+For any questions or help while contributing, feel free to reach out!
+
+---
+
+### **💝 Support Us**
+If you find this project helpful and want to support its development, consider supporting us through GitHub Sponsors:
+
+- [Sponsor Us!](https://github.com/sponsors/MJ-AHMAD)
+
+Your support helps us create more impactful resources and tools for the community!
+
+---
+
+### **📧 Contact**
+For queries, suggestions, or support, feel free to reach out:
+
+- **Email**: [mjahmad2024@outlook.com](mailto:mjahmad2024@outlook.com)
+- **GitHub Profile**: [MJ-AHMAD](https://github.com/MJ-AHMAD)
+
+---
+
+### **🛡️ License**
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+### **🌐 Links**
+- **GitHub Profile**: [MJ-AHMAD](https://github.com/MJ-AHMAD)
+- **Repository**: [TRUSTED-ALLY-BD](https://github.com/MJ-AHMAD/TRUSTED-ALLY-BD.git)
+- **Live Project**: [Visit Website](https://v0-marketplace-8d6j4ma1v-ally-sea.vercel.app/)
+- **Sponsor Us**: [GitHub Sponsors](https://github.com/sponsors/MJ-AHMAD)
+
+---
